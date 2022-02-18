@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Electric Time</string>
+    <string name="action_settings">Settings</string>
+    <string name="image">Sample Image</string>
+</resources>
